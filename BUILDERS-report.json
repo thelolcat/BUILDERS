@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "archive": "C:\\Users\\VICTUS\\Downloads\\Mlfootball_env-main\\builders 2\\participants\\dist\\BUILDERS.zip",
+  "sha256": "3ac1380024a231dec6762f09d1f97de21474caf1001961f81655db80973421c6",
+  "team_name": "BUILDERS",
+  "command": [
+    "python",
+    "-m",
+    "team_bot.bot",
+    "--model",
+    "team_bot/models/trained_policy.json"
+  ],
+  "compressed_bytes": 10172948,
+  "uncompressed_bytes": 41580304,
+  "file_count": 7,
+  "dependencies": [],
+  "model_files": [
+    "team_bot/models/trained_policy.json"
+  ],
+  "errors": [],
+  "warnings": []
+}
